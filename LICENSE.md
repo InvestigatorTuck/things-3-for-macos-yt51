@@ -1,4 +1,4 @@
-
+Enhance Things 3 for macOS with Things 3 for macOS automatic Extension: OCR scanning & auto-sync, the #1 extension. Includes OCR scanning and auto-sync for a smoother experience.
 
 
 
